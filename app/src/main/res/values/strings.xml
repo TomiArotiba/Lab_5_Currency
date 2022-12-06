@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab_5_App</string>
+    <string name="currencyTitle">Euro To Other Currencies: </string>
+    <string name="btnShowCurrencyList">Show Currency List</string>
+</resources>
